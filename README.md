@@ -21,13 +21,13 @@ The website provides information about Horiseon's services. Users can navigate t
 
 ## Screenshots
 
-![Screenshot 1](./assets/images/screenshot1.png)
+![Screenshot 1](./Develop/assets/images/Horiseon_header.png)
 *Screenshot of the header and navigation*
 
-![Screenshot 2](./assets/images/screenshot2.png)
+![Screenshot 2](./Develop/assets/images/SEO_section.png)
 *Screenshot of the SEO section*
 
-![Screenshot 3](./assets/images/screenshot3.png)
+![Screenshot 3](./Develop/assets/images/Benefits_Section.png)
 *Screenshot of the benefits section*
 
 ## Contributing
