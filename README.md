@@ -9,7 +9,7 @@ This project represents the codebase for the Horiseon website, which focuses on 
 - [Usage](#usage)
 - [Screenshots](#screenshots)
 - [Contributing](#contributing)
-- [License](#license)
+
 
 ## Description
 
@@ -34,6 +34,5 @@ The website provides information about Horiseon's services. Users can navigate t
 
 Contributions to this project are currently not accepted as it represents a static representation of the Horiseon website.
 
-## License
 
-This project is licensed under the [MIT License](LICENSE).
+
